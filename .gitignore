@@ -7,10 +7,7 @@
 
 # testing
 /coverage
-/apikey
 
-#ignorar apikey
-apikey/
 
 # production
 /build
